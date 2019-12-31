@@ -1,0 +1,10 @@
+clusters:
+  clustername1:
+    esClusterName: "clustername1"
+    transportSniff: true
+    address: ["xxx:9200"]
+
+  clustername2:
+    esClusterName: "clustername2"
+    transportSniff: true
+    address: ["xxx:9200"]

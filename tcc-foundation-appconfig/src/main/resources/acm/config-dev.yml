@@ -1,0 +1,7 @@
+!!cn.tcc.foundation.appconfig.acm.config.AcmConfig
+{
+  domain: acm.aliyun.com,
+  namespace: xxx,
+  accessKey: xxx,
+  secretKey: xxx
+}

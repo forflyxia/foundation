@@ -1,0 +1,8 @@
+metrics:
+  query:
+    endpoint: cn-shanghai.log.aliyuncs.com
+    project:  xxx
+    accessKeyId:  xxx
+    accessKeySecret:  xxx
+    logstore: xxx
+    enable: true
